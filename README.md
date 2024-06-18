@@ -1,4 +1,4 @@
-### Homework 7 Summary
+### Homework 7 - Cleaning data with pandas
 
 This homework focuses on data analysis using pandas in Python and is divided into two parts.
 

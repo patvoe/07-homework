@@ -4,10 +4,10 @@ This homework focuses on data analysis using pandas in Python and is divided int
 
 #### Part 1: Beers Dataset
 
-### Overview
+##### Overview
 - **Objective:** Analyze beer cans dataset (`craftcans.csv`).
 
-### Steps
+##### Steps
 1. **Import Libraries:** Set up the environment with necessary libraries.
 2. **Read Dataset:** Load and inspect `craftcans.csv`.
 3. **Data Analysis:** Explore beer types, sizes, and other attributes.
@@ -15,10 +15,10 @@ This homework focuses on data analysis using pandas in Python and is divided int
 
 #### Part 2: Dogs Dataset
 
-### Overview
+##### Overview
 - **Objective:** Analyze the NYC dog licenses dataset.
 
-### Steps
+##### Steps
 1. **Import Libraries:** Set up the environment with necessary libraries.
 2. **Read Dataset:** Load `NYC_Dog_Licenses_Current_as_of_4-28-2016.xlsx`.
 3. **Data Analysis:**
